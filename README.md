@@ -1,4 +1,4 @@
-Sales Performance Dashboard: Simple Insights for Smarter Decisions
+Sales Performance Dashboard: 
 I created this interactive dashboard to turn complex sales numbers into a clear, visual story that anyone can understand. It helps business owners see exactly how they are performing without having to look at messy spreadsheets.
 
 Project Workflow:

@@ -15,6 +15,8 @@ Calculations: I wrote custom formulas to automatically calculate important total
 Professional Design: I designed a clean and easy-to-read layout, to make the information easy for anyone to read at a glance.
 
 Quality Check: I tested every button and chart to make sure the dashboard works perfectly for the user.
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Applied Techniques:
 

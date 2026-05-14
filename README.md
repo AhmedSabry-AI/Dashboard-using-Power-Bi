@@ -11,12 +11,20 @@ DAX (Custom Calculations)
 Key Features:
 
 Interactive filters to quickly explore data by month, quarter, or category
+
 Month-over-month analysis to track business growth and slowdowns over time
+
 What-If analysis to predict how cost changes impact total income
+
 Total Sales, Total Profit, and key performance KPI tracking
+
 Clean, modern, and user-friendly dashboard layout
+
 Instant refresh button to reset all filters and return to the main view
+
 Easy-to-understand charts and visuals for fast, informed decision-making
+
 Fully tested and quality-checked for a seamless user experience
+
 
 This dashboard helps businesses turn complex sales data into a clear visual story — eliminating the need for messy spreadsheets and empowering owners to monitor performance, uncover insights, and make smarter decisions to drive growth and profitability.
